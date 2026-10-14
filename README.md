@@ -135,3 +135,56 @@ def twoSum(nums, target):
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA116,100:070B14&height=120&section=footer" width="100%" alt="Footer Banner"/>
 
 </div>
+
+<!---LeetHub Summary Start-->
+## LeetHub Summary
+
+| Total Solved | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: |
+| 9 | 2 | 6 | 1 |
+
+## Activity
+
+| Current Streak | Best Streak | Active Days |
+| ---: | ---: | ---: |
+| 2 days | 2 days | 4 |
+
+| Date | Problems |
+| --- | ---: |
+| 2026-10-10 | 4 |
+| 2026-10-11 | 2 |
+| 2026-10-13 | 2 |
+| 2026-10-14 | 1 |
+
+## Top Tags
+
+| Tag | Problems | Coverage |
+| --- | ---: | ---: |
+| String | 4 | 44% |
+| Math | 3 | 33% |
+| Array | 2 | 22% |
+| Hash Table | 2 | 22% |
+| Binary Search | 1 | 11% |
+| Divide and Conquer | 1 | 11% |
+| Dynamic Programming | 1 | 11% |
+| Linked List | 1 | 11% |
+| Manacher | 1 | 11% |
+| Recursion | 1 | 11% |
+
+## Topics
+
+| Topic | Problems |
+| --- | ---: |
+| [Array](Topics/array/) | 2 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
+| [Hash Table](Topics/hash-table/) | 2 |
+| [Linked List](Topics/linked-list/) | 1 |
+| [Manacher](Topics/manacher/) | 1 |
+| [Math](Topics/math/) | 3 |
+| [Recursion](Topics/recursion/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
+| [String](Topics/string/) | 4 |
+| [Two Pointers](Topics/two-pointers/) | 1 |
+<!---LeetHub Summary End-->
