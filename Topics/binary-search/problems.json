@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-search",
+    "name": "Binary Search",
+    "tagId": "11"
+  },
+  "updatedAt": "2026-10-14T16:51:36.122Z",
+  "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "0004-median-of-two-sorted-arrays/",
+      "readmePath": "0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "46b2b1adfa880c026798c1546360cbcb7783ece5",
+          "lastSyncedAt": "2026-10-14T16:51:36.122Z"
+        }
+      ]
+    }
+  ]
+}
