@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-14T16:53:05.787Z",
+  "updatedAt": "2026-10-14T16:59:25.354Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "0002-add-two-numbers/0002-add-two-numbers.py",
           "sha": "09dcf070eddad4936ee640404af47beeb1cde1fd",
           "lastSyncedAt": "2026-10-14T16:53:05.787Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "0010-regular-expression-matching/",
+      "readmePath": "0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "9def98746e28fe21bf78b0ca59a3ceab0fc03aa0",
+          "lastSyncedAt": "2026-10-14T16:59:25.354Z"
         }
       ]
     }
