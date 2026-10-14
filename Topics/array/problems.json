@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-14T16:52:48.276Z",
+  "updatedAt": "2026-10-14T16:53:20.248Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "0001-two-sum/0001-two-sum.py",
+          "sha": "a93437b68a92eae46ea37dcee049bea7c65a2993",
+          "lastSyncedAt": "2026-10-14T16:53:20.248Z"
+        }
+      ]
+    },
     {
       "frontendId": "4",
       "title": "Median of Two Sorted Arrays",
