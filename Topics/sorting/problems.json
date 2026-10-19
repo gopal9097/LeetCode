@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-10-19T15:24:37.765Z",
+  "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "120b3a2d7866b4f86b826481f6633e5a5ece4d83",
+          "lastSyncedAt": "2026-10-19T15:24:37.765Z"
+        }
+      ]
+    }
+  ]
+}
