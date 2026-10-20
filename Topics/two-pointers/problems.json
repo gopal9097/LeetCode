@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-19T15:24:37.765Z",
+  "updatedAt": "2026-10-20T14:22:31.995Z",
   "problems": [
     {
       "frontendId": "5",
@@ -64,6 +64,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "120b3a2d7866b4f86b826481f6633e5a5ece4d83",
           "lastSyncedAt": "2026-10-19T15:24:37.765Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "16",
+      "title": "3Sum Closest",
+      "slug": "3sum-closest",
+      "problemName": "0016-3sum-closest",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
+      "folderPath": "0016-3sum-closest/",
+      "readmePath": "0016-3sum-closest/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0016-3sum-closest.py",
+          "path": "0016-3sum-closest/0016-3sum-closest.py",
+          "sha": "7199571c1c6dff8530003b7ca0323e176cfbbd07",
+          "lastSyncedAt": "2026-10-20T14:22:31.995Z"
         }
       ]
     }
