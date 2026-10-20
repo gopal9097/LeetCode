@@ -141,13 +141,13 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 15 | 4 | 9 | 2 |
+| 16 | 4 | 10 | 2 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 9 |
+| 8 days | 8 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -160,27 +160,28 @@ def twoSum(nums, target):
 | 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 8 | 53% |
-| Array | 5 | 33% |
-| Math | 5 | 33% |
-| Hash Table | 4 | 27% |
-| Two Pointers | 3 | 20% |
+| String | 8 | 50% |
+| Array | 6 | 38% |
+| Math | 5 | 31% |
+| Hash Table | 4 | 25% |
+| Two Pointers | 4 | 25% |
 | Dynamic Programming | 2 | 13% |
 | Recursion | 2 | 13% |
-| Binary Search | 1 | 7% |
-| Divide and Conquer | 1 | 7% |
-| Greedy | 1 | 7% |
+| Sorting | 2 | 13% |
+| Binary Search | 1 | 6% |
+| Divide and Conquer | 1 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 5 |
+| [Array](Topics/array/) | 6 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
@@ -191,8 +192,8 @@ def twoSum(nums, target):
 | [Math](Topics/math/) | 5 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [String](Topics/string/) | 8 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 <!---LeetHub Summary End-->
