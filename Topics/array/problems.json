@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-20T14:22:31.995Z",
+  "updatedAt": "2026-10-22T05:04:09.850Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "0016-3sum-closest/0016-3sum-closest.py",
           "sha": "7199571c1c6dff8530003b7ca0323e176cfbbd07",
           "lastSyncedAt": "2026-10-20T14:22:31.995Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "0018-4sum/",
+      "readmePath": "0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0018-4sum.py",
+          "path": "0018-4sum/0018-4sum.py",
+          "sha": "40bcb21656d58ca2bf71ed783230e81f77ef55a0",
+          "lastSyncedAt": "2026-10-22T05:04:09.850Z"
         }
       ]
     }
