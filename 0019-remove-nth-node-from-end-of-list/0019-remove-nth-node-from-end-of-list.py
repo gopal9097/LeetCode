@@ -1,0 +1,19 @@
+class Solution:
+    def removeNthFromEnd(self, head, n: int):
+        dummy = ListNode(0, head)
+        slow = dummy
+        fast = dummy
+
+        # Move fast pointer n steps ahead
+        for _ in range(n):
+            fast = fast.next
+
+        # Move both pointers until fast reaches the last node
+        while fast.next:
+            slow = slow.next
+            fast = fast.next
+
+        # Remove the nth node from the end
+        slow.next = slow.next.next
+
+        return dummy.next
