@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-14T16:59:25.354Z",
+  "updatedAt": "2026-10-26T15:24:40.398Z",
   "problems": [
     {
       "frontendId": "5",
@@ -44,6 +44,26 @@
           "path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
           "sha": "9def98746e28fe21bf78b0ca59a3ceab0fc03aa0",
           "lastSyncedAt": "2026-10-14T16:59:25.354Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0022-generate-parentheses.py",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.py",
+          "sha": "c8b746f85d737384e47e6cd98e5cd5777b9ef969",
+          "lastSyncedAt": "2026-10-26T15:24:40.398Z"
         }
       ]
     }
