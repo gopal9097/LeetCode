@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 23 | 6 | 14 | 3 |
+| 24 | 6 | 15 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 15 days | 15 days | 17 |
+| 16 days | 16 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
 | 2026-10-17 | 1 |
@@ -165,21 +164,22 @@ def twoSum(nums, target):
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
 | 2026-10-27 | 1 |
+| 2026-10-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 48% |
-| Array | 7 | 30% |
-| Two Pointers | 6 | 26% |
-| Hash Table | 5 | 22% |
-| Math | 5 | 22% |
-| Linked List | 4 | 17% |
+| String | 11 | 46% |
+| Array | 7 | 29% |
+| Two Pointers | 6 | 25% |
+| Hash Table | 5 | 21% |
+| Linked List | 5 | 21% |
+| Math | 5 | 21% |
+| Recursion | 4 | 17% |
 | Dynamic Programming | 3 | 13% |
-| Recursion | 3 | 13% |
 | Sorting | 3 | 13% |
-| Backtracking | 2 | 9% |
+| Backtracking | 2 | 8% |
 
 ## Topics
 
@@ -194,11 +194,11 @@ def twoSum(nums, target):
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 4 |
+| [Linked List](Topics/linked-list/) | 5 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
-| [Recursion](Topics/recursion/) | 3 |
+| [Recursion](Topics/recursion/) | 4 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
