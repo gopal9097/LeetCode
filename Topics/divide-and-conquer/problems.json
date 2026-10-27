@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-10-14T16:52:48.276Z",
+  "updatedAt": "2026-10-27T14:19:55.484Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "46b2b1adfa880c026798c1546360cbcb7783ece5",
           "lastSyncedAt": "2026-10-14T16:52:48.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "23",
+      "title": "Merge k Sorted Lists",
+      "slug": "merge-k-sorted-lists",
+      "problemName": "0023-merge-k-sorted-lists",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "folderPath": "0023-merge-k-sorted-lists/",
+      "readmePath": "0023-merge-k-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0023-merge-k-sorted-lists.py",
+          "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
+          "sha": "fba1885ba03906873fcc3e9c3572b617d10311ef",
+          "lastSyncedAt": "2026-10-27T14:19:55.484Z"
         }
       ]
     }
