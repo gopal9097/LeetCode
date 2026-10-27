@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-27T14:19:55.484Z",
+  "updatedAt": "2026-10-27T18:47:04.475Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
           "sha": "fba1885ba03906873fcc3e9c3572b617d10311ef",
           "lastSyncedAt": "2026-10-27T14:19:55.484Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0024-swap-nodes-in-pairs.py",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py",
+          "sha": "17341d3eda05df5de35d937fd132a148c17a00d9",
+          "lastSyncedAt": "2026-10-27T18:47:04.475Z"
         }
       ]
     }
