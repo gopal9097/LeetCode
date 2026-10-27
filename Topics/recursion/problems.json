@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-25T13:39:25.238Z",
+  "updatedAt": "2026-10-27T18:47:04.475Z",
   "problems": [
     {
       "frontendId": "2",
@@ -64,6 +64,26 @@
           "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "01e1994620909c1b1a1969cb317293c0e2a9f325",
           "lastSyncedAt": "2026-10-25T13:39:25.238Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "24",
+      "title": "Swap Nodes in Pairs",
+      "slug": "swap-nodes-in-pairs",
+      "problemName": "0024-swap-nodes-in-pairs",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/swap-nodes-in-pairs/",
+      "folderPath": "0024-swap-nodes-in-pairs/",
+      "readmePath": "0024-swap-nodes-in-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0024-swap-nodes-in-pairs.py",
+          "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py",
+          "sha": "17341d3eda05df5de35d937fd132a148c17a00d9",
+          "lastSyncedAt": "2026-10-27T18:47:04.475Z"
         }
       ]
     }
