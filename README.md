@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 6 | 14 | 2 |
+| 23 | 6 | 14 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 14 days | 16 |
+| 15 days | 15 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-13 | 2 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 1 |
 | 2026-10-16 | 1 |
@@ -165,20 +164,21 @@ def twoSum(nums, target):
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
 | 2026-10-26 | 1 |
+| 2026-10-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 50% |
-| Array | 7 | 32% |
-| Two Pointers | 6 | 27% |
-| Hash Table | 5 | 23% |
-| Math | 5 | 23% |
-| Dynamic Programming | 3 | 14% |
-| Linked List | 3 | 14% |
-| Recursion | 3 | 14% |
-| Sorting | 3 | 14% |
+| String | 11 | 48% |
+| Array | 7 | 30% |
+| Two Pointers | 6 | 26% |
+| Hash Table | 5 | 22% |
+| Math | 5 | 22% |
+| Linked List | 4 | 17% |
+| Dynamic Programming | 3 | 13% |
+| Recursion | 3 | 13% |
+| Sorting | 3 | 13% |
 | Backtracking | 2 | 9% |
 
 ## Topics
@@ -189,18 +189,21 @@ def twoSum(nums, target):
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
-| [Linked List](Topics/linked-list/) | 3 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Linked List](Topics/linked-list/) | 4 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
+| [Merge Sort](Topics/merge-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 3 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 11 |
+| [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
 <!---LeetHub Summary End-->
