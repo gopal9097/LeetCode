@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-27T18:47:04.475Z",
+  "updatedAt": "2026-10-29T15:23:59.819Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py",
           "sha": "17341d3eda05df5de35d937fd132a148c17a00d9",
           "lastSyncedAt": "2026-10-27T18:47:04.475Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "25",
+      "title": "Reverse Nodes in k-Group",
+      "slug": "reverse-nodes-in-k-group",
+      "problemName": "0025-reverse-nodes-in-k-group",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "folderPath": "0025-reverse-nodes-in-k-group/",
+      "readmePath": "0025-reverse-nodes-in-k-group/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0025-reverse-nodes-in-k-group.py",
+          "path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
+          "sha": "db487d8ad5e8edde4727628d8fd9499628b097dd",
+          "lastSyncedAt": "2026-10-29T15:23:59.819Z"
         }
       ]
     }
