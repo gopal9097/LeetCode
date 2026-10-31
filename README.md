@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 26 | 7 | 15 | 4 |
+| 27 | 8 | 15 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 18 days | 18 days | 20 |
+| 19 days | 19 days | 21 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-17 | 1 |
 | 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
@@ -165,27 +164,28 @@ def twoSum(nums, target):
 | 2026-10-28 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
+| 2026-10-31 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 42% |
-| Array | 8 | 31% |
-| Two Pointers | 7 | 27% |
-| Linked List | 6 | 23% |
+| String | 11 | 41% |
+| Array | 9 | 33% |
+| Two Pointers | 8 | 30% |
+| Linked List | 6 | 22% |
 | Hash Table | 5 | 19% |
 | Math | 5 | 19% |
 | Recursion | 5 | 19% |
-| Dynamic Programming | 3 | 12% |
-| Sorting | 3 | 12% |
-| Backtracking | 2 | 8% |
+| Dynamic Programming | 3 | 11% |
+| Sorting | 3 | 11% |
+| Backtracking | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
@@ -205,5 +205,5 @@ def twoSum(nums, target):
 | [String](Topics/string/) | 11 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 <!---LeetHub Summary End-->
