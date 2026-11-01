@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 8 | 15 | 4 |
+| 28 | 9 | 15 | 4 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 19 days | 19 days | 21 |
+| 20 days | 20 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-18 | 1 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
@@ -165,18 +164,19 @@ def twoSum(nums, target):
 | 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
 | 2026-10-31 | 1 |
+| 2026-11-01 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 11 | 41% |
-| Array | 9 | 33% |
-| Two Pointers | 8 | 30% |
-| Linked List | 6 | 22% |
-| Hash Table | 5 | 19% |
-| Math | 5 | 19% |
-| Recursion | 5 | 19% |
+| String | 12 | 43% |
+| Array | 9 | 32% |
+| Two Pointers | 9 | 32% |
+| Linked List | 6 | 21% |
+| Hash Table | 5 | 18% |
+| Math | 5 | 18% |
+| Recursion | 5 | 18% |
 | Dynamic Programming | 3 | 11% |
 | Sorting | 3 | 11% |
 | Backtracking | 2 | 7% |
@@ -188,12 +188,14 @@ def twoSum(nums, target):
 | [Array](Topics/array/) | 9 |
 | [Backtracking](Topics/backtracking/) | 2 |
 | [Binary Search](Topics/binary-search/) | 1 |
+| [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
+| [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 5 |
@@ -202,8 +204,10 @@ def twoSum(nums, target):
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
