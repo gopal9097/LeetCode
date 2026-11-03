@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T05:30:29.831Z",
+  "updatedAt": "2026-11-03T16:03:06.922Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
           "sha": "c788008e8dee90480c397d30f438bfe3738767be",
           "lastSyncedAt": "2026-10-21T05:30:29.831Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "30",
+      "title": "Substring with Concatenation of All Words",
+      "slug": "substring-with-concatenation-of-all-words",
+      "problemName": "0030-substring-with-concatenation-of-all-words",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/",
+      "folderPath": "0030-substring-with-concatenation-of-all-words/",
+      "readmePath": "0030-substring-with-concatenation-of-all-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0030-substring-with-concatenation-of-all-words.py",
+          "path": "0030-substring-with-concatenation-of-all-words/0030-substring-with-concatenation-of-all-words.py",
+          "sha": "1bbcd187102f6d3828f49afc214c983169fb59dc",
+          "lastSyncedAt": "2026-11-03T16:03:06.922Z"
         }
       ]
     }
