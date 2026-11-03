@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 29 | 9 | 16 | 4 |
+| 30 | 9 | 16 | 5 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 21 days | 21 days | 23 |
+| 22 days | 22 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-20 | 1 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
@@ -165,17 +164,18 @@ def twoSum(nums, target):
 | 2026-10-31 | 1 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
+| 2026-11-03 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 12 | 41% |
-| Array | 9 | 31% |
-| Two Pointers | 9 | 31% |
-| Linked List | 6 | 21% |
-| Math | 6 | 21% |
-| Hash Table | 5 | 17% |
+| String | 13 | 43% |
+| Array | 9 | 30% |
+| Two Pointers | 9 | 30% |
+| Hash Table | 6 | 20% |
+| Linked List | 6 | 20% |
+| Math | 6 | 20% |
 | Recursion | 5 | 17% |
 | Dynamic Programming | 3 | 10% |
 | Sorting | 3 | 10% |
@@ -194,7 +194,7 @@ def twoSum(nums, target):
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 5 |
+| [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -202,10 +202,10 @@ def twoSum(nums, target):
 | [Math](Topics/math/) | 6 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
-| [Sliding Window](Topics/sliding-window/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 12 |
+| [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
