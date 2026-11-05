@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 9 | 17 | 5 |
+| 32 | 9 | 17 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 23 days | 23 days | 25 |
+| 24 days | 24 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-22 | 1 |
 | 2026-10-23 | 1 |
 | 2026-10-24 | 1 |
 | 2026-10-25 | 1 |
@@ -165,21 +164,22 @@ def twoSum(nums, target):
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
+| 2026-11-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| String | 13 | 42% |
-| Array | 10 | 32% |
-| Two Pointers | 10 | 32% |
+| String | 14 | 44% |
+| Array | 10 | 31% |
+| Two Pointers | 10 | 31% |
 | Hash Table | 6 | 19% |
 | Linked List | 6 | 19% |
 | Math | 6 | 19% |
 | Recursion | 5 | 16% |
-| Dynamic Programming | 3 | 10% |
-| Sorting | 3 | 10% |
-| Backtracking | 2 | 6% |
+| Dynamic Programming | 4 | 13% |
+| Bracket Sequences | 3 | 9% |
+| Sorting | 3 | 9% |
 
 ## Topics
 
@@ -190,9 +190,9 @@ def twoSum(nums, target):
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 6 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
@@ -204,8 +204,8 @@ def twoSum(nums, target):
 | [Recursion](Topics/recursion/) | 5 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 13 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 14 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
