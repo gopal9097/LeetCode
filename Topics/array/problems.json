@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-04T14:02:51.913Z",
+  "updatedAt": "2026-11-06T13:47:58.027Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "0031-next-permutation/0031-next-permutation.py",
           "sha": "4e79d4caab433043ad9bde9f0bf2c19294156efb",
           "lastSyncedAt": "2026-11-04T14:02:51.913Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "b203c4a87bd27733eba2d5e24a2e3c7073efa3e8",
+          "lastSyncedAt": "2026-11-06T13:47:58.027Z"
         }
       ]
     }
