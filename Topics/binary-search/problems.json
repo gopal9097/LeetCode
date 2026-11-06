@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-14T16:52:48.276Z",
+  "updatedAt": "2026-11-06T13:47:58.027Z",
   "problems": [
     {
       "frontendId": "4",
@@ -24,6 +24,26 @@
           "path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
           "sha": "46b2b1adfa880c026798c1546360cbcb7783ece5",
           "lastSyncedAt": "2026-10-14T16:52:48.276Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "33",
+      "title": "Search in Rotated Sorted Array",
+      "slug": "search-in-rotated-sorted-array",
+      "problemName": "0033-search-in-rotated-sorted-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "folderPath": "0033-search-in-rotated-sorted-array/",
+      "readmePath": "0033-search-in-rotated-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0033-search-in-rotated-sorted-array.py",
+          "path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+          "sha": "b203c4a87bd27733eba2d5e24a2e3c7073efa3e8",
+          "lastSyncedAt": "2026-11-06T13:47:58.027Z"
         }
       ]
     }
