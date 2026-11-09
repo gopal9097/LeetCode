@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "matrix",
+    "name": "Matrix",
+    "tagId": "61053"
+  },
+  "updatedAt": "2026-11-09T15:29:11.492Z",
+  "problems": [
+    {
+      "frontendId": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "problemName": "0036-valid-sudoku",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-sudoku/",
+      "folderPath": "0036-valid-sudoku/",
+      "readmePath": "0036-valid-sudoku/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0036-valid-sudoku.py",
+          "path": "0036-valid-sudoku/0036-valid-sudoku.py",
+          "sha": "d216a53eb3221ed51bbbcfaa83a2d1ace2d570c2",
+          "lastSyncedAt": "2026-11-09T15:29:11.492Z"
+        }
+      ]
+    }
+  ]
+}
