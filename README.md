@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 36 | 10 | 20 | 6 |
+| 37 | 10 | 21 | 6 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 28 days | 28 days | 30 |
+| 1 days | 28 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-27 | 1 |
 | 2026-10-28 | 1 |
 | 2026-10-29 | 1 |
 | 2026-10-30 | 1 |
@@ -165,17 +164,18 @@ def twoSum(nums, target):
 | 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-11 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 39% |
-| String | 14 | 39% |
-| Two Pointers | 10 | 28% |
+| String | 15 | 41% |
+| Array | 14 | 38% |
+| Two Pointers | 10 | 27% |
 | Hash Table | 7 | 19% |
-| Linked List | 6 | 17% |
-| Math | 6 | 17% |
+| Linked List | 6 | 16% |
+| Math | 6 | 16% |
 | Recursion | 5 | 14% |
 | Binary Search | 4 | 11% |
 | Dynamic Programming | 4 | 11% |
@@ -206,7 +206,7 @@ def twoSum(nums, target):
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 14 |
+| [String](Topics/string/) | 15 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
