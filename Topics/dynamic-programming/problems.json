@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-05T14:35:52.566Z",
+  "updatedAt": "2026-11-15T12:52:48.292Z",
   "problems": [
     {
       "frontendId": "5",
@@ -84,6 +84,26 @@
           "path": "0032-longest-valid-parentheses/0032-longest-valid-parentheses.py",
           "sha": "1e1bb70b4c181b48d934228a0b465f7d0625e750",
           "lastSyncedAt": "2026-11-05T14:35:52.566Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "42",
+      "title": "Trapping Rain Water",
+      "slug": "trapping-rain-water",
+      "problemName": "0042-trapping-rain-water",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/trapping-rain-water/",
+      "folderPath": "0042-trapping-rain-water/",
+      "readmePath": "0042-trapping-rain-water/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0042-trapping-rain-water.py",
+          "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
+          "sha": "477cb2207d63476a29cd2ea96b1e07f15021e39c",
+          "lastSyncedAt": "2026-11-15T12:52:48.292Z"
         }
       ]
     }
