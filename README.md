@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 10 | 23 | 8 |
+| 42 | 10 | 24 | 8 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 5 days | 28 days | 35 |
+| 6 days | 28 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-01 | 1 |
 | 2026-11-02 | 1 |
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
@@ -165,17 +164,18 @@ def twoSum(nums, target):
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 44% |
-| String | 15 | 37% |
-| Two Pointers | 11 | 27% |
-| Hash Table | 8 | 20% |
-| Linked List | 6 | 15% |
-| Math | 6 | 15% |
+| Array | 18 | 43% |
+| String | 16 | 38% |
+| Two Pointers | 11 | 26% |
+| Hash Table | 8 | 19% |
+| Math | 7 | 17% |
+| Linked List | 6 | 14% |
 | Dynamic Programming | 5 | 12% |
 | Recursion | 5 | 12% |
 | Backtracking | 4 | 10% |
@@ -199,15 +199,16 @@ def twoSum(nums, target):
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
+| [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 15 |
+| [String](Topics/string/) | 16 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
