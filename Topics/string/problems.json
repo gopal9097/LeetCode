@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T13:15:15.916Z",
+  "updatedAt": "2026-11-17T13:55:50.821Z",
   "problems": [
     {
       "frontendId": "3",
@@ -324,6 +324,26 @@
           "path": "0043-multiply-strings/0043-multiply-strings.py",
           "sha": "71088106c46b14f177e8c09ad3c67f203a816295",
           "lastSyncedAt": "2026-11-16T13:15:15.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "44",
+      "title": "Wildcard Matching",
+      "slug": "wildcard-matching",
+      "problemName": "0044-wildcard-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/wildcard-matching/",
+      "folderPath": "0044-wildcard-matching/",
+      "readmePath": "0044-wildcard-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0044-wildcard-matching.py",
+          "path": "0044-wildcard-matching/0044-wildcard-matching.py",
+          "sha": "2f3c9927bbab2d659ce641dad014d393809a6e04",
+          "lastSyncedAt": "2026-11-17T13:55:50.821Z"
         }
       ]
     }
