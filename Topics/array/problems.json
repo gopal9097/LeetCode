@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T12:52:48.292Z",
+  "updatedAt": "2026-11-18T15:49:23.287Z",
   "problems": [
     {
       "frontendId": "1",
@@ -364,6 +364,26 @@
           "path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
           "sha": "477cb2207d63476a29cd2ea96b1e07f15021e39c",
           "lastSyncedAt": "2026-11-15T12:52:48.292Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0045-jump-game-ii.py",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.py",
+          "sha": "eac5ec96b7a84b32b5fd378b7ba6afa2d8bb525c",
+          "lastSyncedAt": "2026-11-18T15:49:23.287Z"
         }
       ]
     }
