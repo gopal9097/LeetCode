@@ -141,18 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 42 | 10 | 24 | 8 |
+| 44 | 10 | 25 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 6 days | 28 days | 36 |
+| 8 days | 28 days | 38 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-02 | 1 |
-| 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-05 | 1 |
 | 2026-11-06 | 1 |
@@ -165,35 +163,37 @@ def twoSum(nums, target):
 | 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
+| 2026-11-17 | 1 |
+| 2026-11-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 18 | 43% |
-| String | 16 | 38% |
-| Two Pointers | 11 | 26% |
-| Hash Table | 8 | 19% |
-| Math | 7 | 17% |
+| Array | 19 | 43% |
+| String | 17 | 39% |
+| Two Pointers | 11 | 25% |
+| Hash Table | 8 | 18% |
+| Dynamic Programming | 7 | 16% |
+| Math | 7 | 16% |
 | Linked List | 6 | 14% |
-| Dynamic Programming | 5 | 12% |
-| Recursion | 5 | 12% |
-| Backtracking | 4 | 10% |
-| Binary Search | 4 | 10% |
+| Recursion | 6 | 14% |
+| Backtracking | 4 | 9% |
+| Binary Search | 4 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 18 |
+| [Array](Topics/array/) | 19 |
 | [Backtracking](Topics/backtracking/) | 4 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 5 |
-| [Greedy](Topics/greedy/) | 1 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Greedy](Topics/greedy/) | 3 |
 | [Hash Table](Topics/hash-table/) | 8 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
@@ -203,12 +203,12 @@ def twoSum(nums, target):
 | [Matrix](Topics/matrix/) | 1 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
-| [Recursion](Topics/recursion/) | 5 |
+| [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 16 |
+| [String](Topics/string/) | 17 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
