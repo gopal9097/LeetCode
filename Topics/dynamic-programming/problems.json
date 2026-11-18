@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-17T13:55:50.821Z",
+  "updatedAt": "2026-11-18T15:49:23.287Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "0044-wildcard-matching/0044-wildcard-matching.py",
           "sha": "2f3c9927bbab2d659ce641dad014d393809a6e04",
           "lastSyncedAt": "2026-11-17T13:55:50.821Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "45",
+      "title": "Jump Game II",
+      "slug": "jump-game-ii",
+      "problemName": "0045-jump-game-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game-ii/",
+      "folderPath": "0045-jump-game-ii/",
+      "readmePath": "0045-jump-game-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0045-jump-game-ii.py",
+          "path": "0045-jump-game-ii/0045-jump-game-ii.py",
+          "sha": "eac5ec96b7a84b32b5fd378b7ba6afa2d8bb525c",
+          "lastSyncedAt": "2026-11-18T15:49:23.287Z"
         }
       ]
     }
