@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 10 | 27 | 9 |
+| 47 | 10 | 28 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 10 days | 28 days | 40 |
+| 11 days | 28 days | 41 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-06 | 1 |
 | 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
@@ -165,17 +164,18 @@ def twoSum(nums, target):
 | 2026-11-18 | 1 |
 | 2026-11-19 | 1 |
 | 2026-11-20 | 1 |
+| 2026-11-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 21 | 46% |
-| String | 17 | 37% |
-| Two Pointers | 11 | 24% |
+| Array | 22 | 47% |
+| String | 17 | 36% |
+| Two Pointers | 11 | 23% |
 | Hash Table | 8 | 17% |
+| Math | 8 | 17% |
 | Dynamic Programming | 7 | 15% |
-| Math | 7 | 15% |
 | Backtracking | 6 | 13% |
 | Linked List | 6 | 13% |
 | Recursion | 6 | 13% |
@@ -185,7 +185,7 @@ def twoSum(nums, target):
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 21 |
+| [Array](Topics/array/) | 22 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -199,8 +199,8 @@ def twoSum(nums, target):
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 7 |
-| [Matrix](Topics/matrix/) | 1 |
+| [Math](Topics/math/) | 8 |
+| [Matrix](Topics/matrix/) | 2 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 6 |
