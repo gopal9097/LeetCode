@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 10 | 28 | 9 |
+| 48 | 10 | 29 | 9 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 11 days | 28 days | 41 |
+| 12 days | 28 days | 42 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-07 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-11 | 1 |
@@ -165,27 +164,28 @@ def twoSum(nums, target):
 | 2026-11-19 | 1 |
 | 2026-11-20 | 1 |
 | 2026-11-21 | 1 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 47% |
-| String | 17 | 36% |
+| Array | 23 | 48% |
+| String | 18 | 38% |
 | Two Pointers | 11 | 23% |
-| Hash Table | 8 | 17% |
+| Hash Table | 9 | 19% |
 | Math | 8 | 17% |
 | Dynamic Programming | 7 | 15% |
 | Backtracking | 6 | 13% |
 | Linked List | 6 | 13% |
 | Recursion | 6 | 13% |
-| Binary Search | 4 | 9% |
+| Sorting | 5 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Backtracking](Topics/backtracking/) | 6 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
@@ -194,7 +194,7 @@ def twoSum(nums, target):
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Greedy](Topics/greedy/) | 3 |
-| [Hash Table](Topics/hash-table/) | 8 |
+| [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
@@ -206,9 +206,9 @@ def twoSum(nums, target):
 | [Recursion](Topics/recursion/) | 6 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 17 |
+| [String](Topics/string/) | 18 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tournament Sort](Topics/tournament-sort/) | 1 |
 | [Trie](Topics/trie/) | 1 |
