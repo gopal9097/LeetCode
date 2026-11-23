@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-21T15:03:24.720Z",
+  "updatedAt": "2026-11-23T03:07:58.872Z",
   "problems": [
     {
       "frontendId": "2",
@@ -164,6 +164,26 @@
           "path": "0048-rotate-image/0048-rotate-image.py",
           "sha": "494637c953fdfe3914f5f9664a1adee69076eb2c",
           "lastSyncedAt": "2026-11-21T15:03:24.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0050-powx-n.py",
+          "path": "0050-powx-n/0050-powx-n.py",
+          "sha": "63fa806adedbfe6f5c4cf2b2b1542f993ce104f9",
+          "lastSyncedAt": "2026-11-23T03:07:58.872Z"
         }
       ]
     }
