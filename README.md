@@ -141,17 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 50 | 10 | 30 | 10 |
+| 51 | 10 | 30 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 14 days | 28 days | 44 |
+| 15 days | 28 days | 45 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-11 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-13 | 1 |
 | 2026-11-14 | 1 |
@@ -165,17 +164,18 @@ def twoSum(nums, target):
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-24 | 1 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 24 | 48% |
-| String | 18 | 36% |
+| Array | 24 | 47% |
+| String | 18 | 35% |
 | Two Pointers | 11 | 22% |
 | Hash Table | 9 | 18% |
 | Math | 9 | 18% |
-| Backtracking | 7 | 14% |
+| Backtracking | 8 | 16% |
 | Dynamic Programming | 7 | 14% |
 | Recursion | 7 | 14% |
 | Linked List | 6 | 12% |
@@ -185,9 +185,9 @@ def twoSum(nums, target):
 
 | Topic | Problems |
 | --- | ---: |
-| [Algorithm X](Topics/algorithm-x/) | 1 |
+| [Algorithm X](Topics/algorithm-x/) | 2 |
 | [Array](Topics/array/) | 24 |
-| [Backtracking](Topics/backtracking/) | 7 |
+| [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
