@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-21T15:03:24.720Z",
+  "updatedAt": "2026-11-27T11:51:05.268Z",
   "problems": [
     {
       "frontendId": "36",
@@ -44,6 +44,26 @@
           "path": "0048-rotate-image/0048-rotate-image.py",
           "sha": "494637c953fdfe3914f5f9664a1adee69076eb2c",
           "lastSyncedAt": "2026-11-21T15:03:24.720Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0054-spiral-matrix.py",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.py",
+          "sha": "60808c0fe606dc15f59180a9ad8c672d3eb7a45a",
+          "lastSyncedAt": "2026-11-27T11:51:05.268Z"
         }
       ]
     }
