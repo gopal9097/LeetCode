@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-27T11:51:05.268Z",
+  "updatedAt": "2026-11-28T11:36:15.641Z",
   "problems": [
     {
       "frontendId": "1",
@@ -524,6 +524,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.py",
           "sha": "60808c0fe606dc15f59180a9ad8c672d3eb7a45a",
           "lastSyncedAt": "2026-11-27T11:51:05.268Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "55",
+      "title": "Jump Game",
+      "slug": "jump-game",
+      "problemName": "0055-jump-game",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/jump-game/",
+      "folderPath": "0055-jump-game/",
+      "readmePath": "0055-jump-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0055-jump-game.py",
+          "path": "0055-jump-game/0055-jump-game.py",
+          "sha": "511457e4e32d5dc0a5df7999e2a266e6247d94c5",
+          "lastSyncedAt": "2026-11-28T11:36:15.641Z"
         }
       ]
     }
