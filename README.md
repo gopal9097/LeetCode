@@ -141,18 +141,16 @@ def twoSum(nums, target):
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 10 | 31 | 11 |
+| 54 | 10 | 33 | 11 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 16 days | 28 days | 46 |
+| 18 days | 28 days | 48 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-13 | 1 |
-| 2026-11-14 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-16 | 1 |
 | 2026-11-17 | 1 |
@@ -165,47 +163,49 @@ def twoSum(nums, target):
 | 2026-11-24 | 1 |
 | 2026-11-25 | 1 |
 | 2026-11-26 | 1 |
+| 2026-11-27 | 1 |
+| 2026-11-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 48% |
-| String | 18 | 35% |
-| Two Pointers | 11 | 21% |
+| Array | 27 | 50% |
+| String | 18 | 33% |
+| Two Pointers | 11 | 20% |
+| Dynamic Programming | 9 | 17% |
 | Hash Table | 9 | 17% |
 | Math | 9 | 17% |
 | Backtracking | 8 | 15% |
-| Dynamic Programming | 8 | 15% |
 | Recursion | 7 | 13% |
-| Linked List | 6 | 12% |
-| Sorting | 5 | 10% |
+| Linked List | 6 | 11% |
+| Sorting | 5 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Algorithm X](Topics/algorithm-x/) | 2 |
-| [Array](Topics/array/) | 25 |
+| [Array](Topics/array/) | 27 |
 | [Backtracking](Topics/backtracking/) | 8 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
-| [Greedy](Topics/greedy/) | 3 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 9 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 6 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 9 |
-| [Matrix](Topics/matrix/) | 2 |
+| [Matrix](Topics/matrix/) | 3 |
 | [Merge Sort](Topics/merge-sort/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Recursion](Topics/recursion/) | 7 |
-| [Simulation](Topics/simulation/) | 1 |
+| [Simulation](Topics/simulation/) | 2 |
 | [Sliding Window](Topics/sliding-window/) | 2 |
 | [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
